@@ -100,6 +100,38 @@ Welcome to the **MongoDB Learning Repository**! This repository is designed to h
 
 ---
 
+## 📂 Repository Structure
+```
+mongodb-learning-repo/
+│── README.md
+│── .gitignore
+│── LICENSE
+│── setup/
+│   ├── install-mongodb.md
+│   ├── setup-mongodb-atlas.md
+│── beginner/
+│   ├── intro-to-databases.md
+│   ├── sql-vs-nosql.md
+│   ├── basic-commands.md
+│── intermediate/
+│   ├── data-modeling.md
+│   ├── aggregation-framework.md
+│   ├── mongodb-compass.md
+│── advanced/
+│   ├── transactions.md
+│   ├── schema-design.md
+│   ├── scalability.md
+│── projects/
+│   ├── expense-tracker/
+│   │   ├── README.md
+│   │   ├── app.py (if using Python)
+│   ├── product-catalog/
+│   │   ├── README.md
+│   │   ├── server.js (if using Node.js)
+```
+
+---
+
 ## 🤝 Contribution
 Want to contribute? Feel free to:
 - Submit issues for topics you’d like covered
