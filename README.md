@@ -40,7 +40,7 @@ Welcome to the **MongoDB Learning Repository**! This repository is designed to h
 ---
 
 ## 🛠 Prerequisites
-- Basic understanding of computers (for non-tech users)
+- Basic understanding of computers (for non-tech users)̦
 - Willingness to learn!
 - (Optional) Some familiarity with JSON format
 
